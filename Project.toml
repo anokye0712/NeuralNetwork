@@ -1,0 +1,13 @@
+name = "NeuralNetworks"
+uuid = "3ffc7cc2-604b-42cb-a1cc-fe20d32fb6ef"
+authors = ["Anokye <anokye561@outlook.com> and contributors"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
